@@ -82,4 +82,8 @@ Mobile
 <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
 Como executar o projeto
 </h2>
-<p> Para executar o projeto basta 
+<p> Para executar o projeto basta clonar o repositório executando no terminal:
+git clone https://github.com/renanmdreis45/App-orcamento-pessoal </p>
+<p>
+Em seguida basta abrir o projeto na sua IDE e executar as páginas html para visualizar no browser
+</p>
