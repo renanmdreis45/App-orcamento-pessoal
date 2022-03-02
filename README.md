@@ -85,5 +85,5 @@ Como executar o projeto
 <p> Para executar o projeto basta clonar o repositório executando no terminal:
 git clone https://github.com/renanmdreis45/App-orcamento-pessoal </p>
 <p>
-Em seguida basta abrir o projeto na sua IDE e executar as páginas html para visualizar no browser
+Em seguida, basta abrir o projeto na sua IDE e executar as páginas html para visualizar no browser
 </p>
