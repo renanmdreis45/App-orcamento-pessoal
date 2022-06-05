@@ -1,4 +1,4 @@
-# Aplicativo web de orçamento pessoal 
+# Aplicação web de orçamento pessoal 
  
 <p align="center"> 
 <img src="https://github.com/renanmdreis45/App-orcamento-pessoal/blob/master/logo.png" alt="App orçamento pessoal">
